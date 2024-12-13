@@ -6,7 +6,7 @@ nav_section: Root
 weight: 2
 draft: false
 ---
-To create a new **Alto** site and deploy it immediately to CloudCannon, click <a href="https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/alto-hugo-template" target="_blank" rel="noopener">here</a>.
+To create a new Alto site and deploy it immediately to CloudCannon, click <a href="https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/alto-hugo-template" target="_blank" rel="noopener">here</a>.
 
 ## Creating new site pages
 
